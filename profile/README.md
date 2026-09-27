@@ -23,12 +23,10 @@ la communication des équipes et la maîtrise des gestes techniques.
 
 ## Notre approche
 
-1. 🫁 **Des simulateurs physiques** reproduisant fidèlement les comportements humains, connectés à
+1. 🫁 **Des simulateurs physiques** reproduisant les comportements humains, connectés à
    de vrais dispositifs médicaux.
 2. 🥽 **Des environnements virtuels** pour comprendre les pathologies « de l'intérieur ».
 3. 🎓 **Un accompagnement pédagogique** complet, théorique et pratique.
-
-L'ambition : rendre la simulation haute qualité accessible au plus grand nombre de centres de formation.
 
 ## La suite logicielle « Nex »
 
